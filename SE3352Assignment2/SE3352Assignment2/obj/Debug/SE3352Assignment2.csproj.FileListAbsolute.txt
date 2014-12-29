@@ -1,0 +1,13 @@
+c:\users\adam\documents\visual studio 2013\Projects\SE3352Assignment2\SE3352Assignment2\bin\Debug\SE3352Assignment2.exe.config
+c:\users\adam\documents\visual studio 2013\Projects\SE3352Assignment2\SE3352Assignment2\bin\Debug\SE3352Assignment2.exe
+c:\users\adam\documents\visual studio 2013\Projects\SE3352Assignment2\SE3352Assignment2\bin\Debug\SE3352Assignment2.pdb
+c:\users\adam\documents\visual studio 2013\Projects\SE3352Assignment2\SE3352Assignment2\obj\Debug\SE3352Assignment2.csprojResolveAssemblyReference.cache
+c:\users\adam\documents\visual studio 2013\Projects\SE3352Assignment2\SE3352Assignment2\obj\Debug\SE3352Assignment2.StockSecuritiesExchange.resources
+c:\users\adam\documents\visual studio 2013\Projects\SE3352Assignment2\SE3352Assignment2\obj\Debug\SE3352Assignment2.csproj.GenerateResource.Cache
+c:\users\adam\documents\visual studio 2013\Projects\SE3352Assignment2\SE3352Assignment2\obj\Debug\SE3352Assignment2.exe
+c:\users\adam\documents\visual studio 2013\Projects\SE3352Assignment2\SE3352Assignment2\obj\Debug\SE3352Assignment2.pdb
+c:\users\adam\documents\visual studio 2013\Projects\SE3352Assignment2\SE3352Assignment2\obj\Debug\SE3352Assignment2.StockStatsSummary.resources
+c:\users\adam\documents\visual studio 2013\Projects\SE3352Assignment2\SE3352Assignment2\obj\Debug\SE3352Assignment2.StockByOrder.resources
+c:\users\adam\documents\visual studio 2013\Projects\SE3352Assignment2\SE3352Assignment2\obj\Debug\SE3352Assignment2.StockByPrice.resources
+c:\users\adam\documents\visual studio 2013\Projects\SE3352Assignment2\SE3352Assignment2\obj\Debug\SE3352Assignment2.BidOrderForm.resources
+c:\users\adam\documents\visual studio 2013\Projects\SE3352Assignment2\SE3352Assignment2\obj\Debug\SE3352Assignment2.SellOrderForm.resources
